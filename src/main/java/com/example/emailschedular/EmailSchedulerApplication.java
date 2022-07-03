@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmailSchedularApplication {
+public class EmailSchedulerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EmailSchedularApplication.class, args);
+        SpringApplication.run(EmailSchedulerApplication.class, args);
     }
 
 }
